@@ -1,0 +1,19 @@
+body { display: block;
+       height: 100%;
+       width: 100%;
+       background-image: url(горный2.gif);
+       background-size: cover;
+	   background-attachment: fixed;
+	   margin: 0px;
+	   padding: 0px;
+       border: none}
+	   p {margin: 10px;
+	      padding: 5px;
+		  font-size: 20px;
+		  font-weight: 700;
+	   }
+div {margin: 40px;
+     padding: 5px
+	 border: solid 2px green;
+background-color: red}
+
