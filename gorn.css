@@ -12,8 +12,10 @@ body { display: block;
 		  font-size: 20px;
 		  font-weight: 700;
 	   }
-div {margin: 40px;
-     padding: 5px
-	 border: solid 2px green;
-background-color: red}
+div {height: 100px;
+     width: 100px;
+     margin: 40px;
+     padding: 5px;
+     border: solid 2px green;
+     background-color: red}
 
