@@ -14,10 +14,8 @@ body { display: block;
 	   }
 div {height: 100px;
      width: 100px;
-     margin: 40px;
-     padding: 5px;
-     border: solid 2px green;
-     background-color: red}
+     margin: 5px;
+     padding: 5px;}
 .image {background-image: url('Фудзияма.jpg');
         background-position: center;
         -webkit-background-size: cover;
